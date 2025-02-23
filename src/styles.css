@@ -10,3 +10,18 @@ a{
     text-decoration: none;
 }
 
+.bg-dark-ed{
+    background-color: #000000 !important;
+    border: 1px solid #6C657D !important;
+}
+
+.card{
+    overflow: hidden;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+}
+.rounded-lg{
+    border-radius: 10px !important;
+}
